@@ -1,0 +1,8 @@
+{
+  "name": "function-1",
+  "description": "Returns latest COUNT tweets from our timeline",
+  "version": "0.0.1",
+  "dependencies": {
+    "twit": "^2.2.1"
+  }
+}
